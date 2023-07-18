@@ -8,7 +8,8 @@ The script generates random values for `red_shape`, `green_shape`, and `white_sh
 
 ## Inspiration
 
-This script was inspired by the research paper titled "[The Influence of Cognitive Control on Performance and Learning in ADHD: A Review](https://scienceofbehaviorchange.org/wp-content/uploads/2017/07/FriedmanMiyake2004-1.pdf)" by Friedman and Miyake (2004). The paper explores the relationship between cognitive control processes and attention deficit hyperactivity disorder (ADHD).
+This script was inspired by the research paper titled "[The Relations Among Inhibition and Interference Control Functions:
+A Latent-Variable Analysis](https://scienceofbehaviorchange.org/wp-content/uploads/2017/07/FriedmanMiyake2004-1.pdf)" by Friedman and Miyake (2004). The paper explores the relationship between cognitive control processes and attention deficit hyperactivity disorder (ADHD).
 
 ## ROAR-Shape
 
